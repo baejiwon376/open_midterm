@@ -31,13 +31,13 @@ Streamlit 중간고사 대체 과제로 만든 음악 추천 앱입니다.
 
 ## 파일 구성
 
-app.py              # Streamlit 메인 실행 파일
-data_loader.py      # 음악 데이터 불러오기 및 전처리
-recommender.py      # 취향 유형 판별 및 추천 알고리즘
-music_data.csv.gz   # 압축된 음악 데이터
-requirements.txt    # 실행에 필요한 라이브러리
-.gitignore          # GitHub에 올리지 않을 파일 설정
-README.md           # 프로젝트 설명
+- app.py              # Streamlit 메인 실행 파일
+- data_loader.py      # 음악 데이터 불러오기 및 전처리
+- recommender.py      # 취향 유형 판별 및 추천 알고리즘
+- music_data.csv.gz   # 압축된 음악 데이터
+- requirements.txt    # 실행에 필요한 라이브러리
+- .gitignore          # GitHub에 올리지 않을 파일 설정
+- README.md           # 프로젝트 설명
 
 ## 사용한 자료 출처
 
